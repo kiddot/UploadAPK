@@ -1,9 +1,3 @@
-package com.tencent.bugly.plugin;
-
-/**
- * Created by kiddo on 17-7-19.
- */
-
 class Constants {
     public static final String HTTPMETHOD_GET = "GET";
     public static final String HTTPMETHOD_POST = "POST";

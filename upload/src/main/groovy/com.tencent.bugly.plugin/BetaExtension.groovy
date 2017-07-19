@@ -1,9 +1,3 @@
-package com.tencent.bugly.plugin;
-
-/**
- * Created by kiddo on 17-7-19.
- */
-
 public class BetaExtension {
     public String appId = null; // AppID 【必选】
     public String appKey = null; // AppKey 【必选】
